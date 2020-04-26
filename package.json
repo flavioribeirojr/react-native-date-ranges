@@ -1,8 +1,8 @@
 
 {
-  "name": "react-native-date-ranges",
+  "name": "react-native-date-ranges-picker",
   "version": "2.5.0",
-  "description": "",
+  "description": "This is a fork of react-native-date-ranges a bit more customizable",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pohsiu/react-native-date-ranges"
+    "url": "https://github.com/flavioribeirojr/react-native-date-ranges"
   },
   "dependencies": {
     "react": ">=16.0.0-alpha.12",
